@@ -1,18 +1,23 @@
 {
-  "title": "American Beauty",
-  "photos": [
-  {
+  "grid": {
     "title": "American Beauty",
-    "url": "assets/images/american_beauty.png"
-  },  {
-    "title": "American Beauty",
-    "url": "assets/images/american_beauty.png"
-  },  {
-    "title": "American Beauty",
-    "url": "assets/images/american_beauty.png"
-  },  {
-    "title": "American Beauty",
-    "url": "assets/images/american_beauty.png"
+    "photos": [
+      {
+        "title": "American Beauty",
+        "url": "assets/images/american_beauty.png"
+      },
+      {
+        "title": "American Beauty",
+        "url": "assets/images/american_beauty.png"
+      },
+      {
+        "title": "American Beauty",
+        "url": "assets/images/american_beauty.png"
+      },
+      {
+        "title": "American Beauty",
+        "url": "assets/images/american_beauty.png"
+      }
+    ]
   }
-  ]
 }
